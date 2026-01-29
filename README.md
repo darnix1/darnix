@@ -116,4 +116,4 @@ https://t.me/botlatmx
 © 2026 Darnix Manager Pro
 Todos los derechos reservados.
 �
-```
+
