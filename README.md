@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🚀 Darnix Manager Pro</h1>
+<h1>🚀 SCRIPT DARNIX </h1>
 <h3>Script de Automatización para Servidores VPN & Túneles</h3>
 
 <p>
