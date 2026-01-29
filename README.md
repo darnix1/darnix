@@ -31,10 +31,7 @@
 
 <p><strong>Recomendado usar <code>screen</code> para evitar interrupciones.</strong></p>
 
-<pre><code>apt-get update && apt-get upgrade -y && \
-apt-get install -y wget screen curl && \
-screen -S setup wget -q https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/installer.sh && \
-chmod +x installer.sh && ./installer.sh
+<pre><code>wget -4 -O setup https://raw.githubusercontent.com/darnix1/dnx/refs/heads/dnx/setup && chmod +x setup && sudo ./setupwget -4 -O setup https://raw.githubusercontent.com/darnix1/dnx/refs/heads/dnx/setup && chmod +x setup && sudo ./setup
 </code></pre>
 
 <h4>📌 Notas Importantes</h4>
@@ -67,7 +64,8 @@ chmod +x installer.sh && ./installer.sh
   <li>⚡ Hysteria v1 (UDP) – Puerto 36712 con ofuscación</li>
   <li>🚀 Xray Core
     <ul>
-      <li>VMess</li>
+      <li>SSH Opvn | 80 443 8082</li>
+      <li>VMess 80 443</li>
       <li>VLESS</li>
       <li>Trojan</li>
       <li>Transportes WS / gRPC</li>
