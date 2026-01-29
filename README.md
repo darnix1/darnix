@@ -135,6 +135,6 @@
 <hr>
 
 <div align="center">
-  <p>© 2026 <strong>Darnix Manager Pro</strong></p>
+  <p>© 2026 <strong>Darnix Manager Pro by Darinel</strong></p>
   <p>Todos los derechos reservados.</p>
 </div>
